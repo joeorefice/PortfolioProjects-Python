@@ -8,7 +8,7 @@ This repository contains Jupyter notebooks containing Python and Markdown code f
 
 **Description**:  Data analysis of Hot Wheels car model presence across TV series and 2 video games.
 
-**Skills**: webscraping, data cleaning, data analysis, Python, Pandas, Seaborn, Matplotlib, Markdown
+**Skills**: webscraping, data cleaning, data analysis, visualisation,Python, Pandas, Seaborn, Matplotlib, Markdown
 
 **Results**: identification of the following metrics;
 * Number of cars are present across all three media items
